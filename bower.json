@@ -1,0 +1,17 @@
+{
+  "name": "6-acme-explosive",
+  "authors": [
+    "Megan Ford <meg.c.ford@gmail.com>"
+  ],
+  "description": "nss-moderndeveloper-exercise-6",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
