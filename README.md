@@ -29,10 +29,10 @@ bower init
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-MD-6-AcmeExplosives)
 
 
-![screenshot]()
+![screenshot](explosives.screenshot.jpg)
 
 
 ## License 
