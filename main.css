@@ -1,0 +1,11 @@
+.productDiv {
+  min-height: 230px;
+  border: 2px solid black;
+}
+
+.productDiv p {
+  text-align: justify;
+}
+.productDiv h2, h4 {
+  text-align: center;
+}

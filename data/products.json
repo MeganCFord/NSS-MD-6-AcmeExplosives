@@ -1,0 +1,116 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "category": 0,
+            "type": 0,
+            "name": "Blue Burst",
+            "description": "A small blue firework."
+        }, 
+        {
+          "id": 1, 
+          "category": 0,
+          "type": 0, 
+          "name": "Bottle Rocket", 
+          "description": "Put this rocket in a bottle to make sure it shoots straight up."
+        }, 
+        {
+          "id": 2, 
+          "category": 0,
+          "type": 0, 
+          "name": "Screamer", 
+          "description": "A really annoying firework that makes a lot of noise before exploding in a tiny pop." 
+        }, 
+         {
+          "id": 3,
+          "category": 0, 
+          "type": 1, 
+          "name": "Enormous Heart", 
+          "description": "Most of the time this firework explodes in the shape of a pink heart." 
+        }, 
+         {
+          "id": 4, 
+          "category": 0,
+          "type": 1, 
+          "name": "Waterfall", 
+          "description": "A lovely firework that makes a shape like a weeping willow with slowly falling white sparkles." 
+        }, 
+         {
+          "id": 5, 
+          "category": 0,
+          "type": 1, 
+          "name": "Red Giant", 
+          "description": "A classic big red firework." 
+        }, 
+         {
+          "id": 6, 
+          "category": 0,
+          "type": 2, 
+          "name": "Pooping Chicken", 
+          "description": "This little cardboard chicken poops out ash and then makes a screaming sound. " 
+        }, 
+         {
+          "id": 7, 
+          "category": 0,
+          "type": 2, 
+          "name": "Spinning Turtle", 
+          "description": "A little plastic bulb that spins and spins with sparkles." 
+        }, 
+         {
+          "id": 8,
+          "category": 0, 
+          "type": 2, 
+          "name": "Sparkler", 
+          "description": "A classic sparkler." 
+        },
+         {
+          "id": 9,
+          "category": 1, 
+          "type": 0, 
+          "name": "pop bomb", 
+          "description": "Those little things you throw on the ground and they make a pop." 
+        },
+         {
+          "id": 10,
+          "category": 1, 
+          "type": 0, 
+          "name": "Firecracker", 
+          "description": "For a slightly bigger pop- more like a horrid bang." 
+        },
+         {
+          "id": 11,
+          "category": 1, 
+          "type": 0, 
+          "name": "Tiny Amount of TNT", 
+          "description": "Just enough to blow your arm off." 
+        },
+         {
+          "id": 12,
+          "category": 1, 
+          "type": 1, 
+          "name": "A Lot of TNT", 
+          "description": "Volatile and sweaty, use with caution but blows up bridges and old mills with aplomb." 
+        },
+         {
+          "id": 13,
+          "category": 1, 
+          "type": 1, 
+          "name": "A Barrel of Powder", 
+          "description": "Especially dangerous on ships." 
+        },
+         {
+          "id": 15,
+          "category": 1, 
+          "type": 2, 
+          "name": "Nuclear Bomb", 
+          "description": "For destroying most of a hemisphere. Make sure you're very far away when this goes off." 
+        },
+         {
+          "id": 16,
+          "category": 1, 
+          "type": 2, 
+          "name": "Big Daddy", 
+          "description": "A dud, thank goodness (at least we hope) A perfect living-room accessory for the nuclear family." 
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 1,
+            "name": "mini",
+            "description": "tiny explosives that don't actually destroy anything."
+        }, 
+        {
+          "id": 1, 
+          "category": 1, 
+          "name": "large", 
+          "description": "explosivese to blow up normal sized things."
+        }, 
+        {
+          "id": 2, 
+          "category": 1, 
+          "name": "enormous", 
+          "description": "Mainly nuclear bombs." 
+        }
+    ]
+}
