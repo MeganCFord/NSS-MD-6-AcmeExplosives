@@ -32,7 +32,7 @@ open index.html
 [Live Site On Github](http://megancford.github.io/NSS-MD-6-AcmeExplosives)
 
 
-![screenshot](explosives.screenshot.jpg)
+![screenshot](explosives-screenshot.jpg)
 
 
 ## License 
