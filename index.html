@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Acme Explosives</title>
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+<h1>Acme Explosives Exercise</h1>
+  <form>
+    <select>
+      <option class="categories" id="fireworks" value="0" selected>Fireworks
+      <option  class="categories" id="demolition" value="1">Demolition
+    </select>
+    <button id="submitBtn" type = "submit" class="submitBtn btn btn-danger">Submit</button>
+  </form>
+
+<h1 class="categoryTitle"></h1>
+  <div class="container-fluid">
+    <div id="productsRow" class="productsRow row">
+    </div>
+  </div>
+
+
+  <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script type="text/javascript" src="jsonloader.js"></script>
+</body>
+</html>

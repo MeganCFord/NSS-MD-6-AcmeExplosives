@@ -1,0 +1,22 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations."
+        }, 
+        {
+          "id": 1, 
+          "category": 0, 
+          "name": "civic", 
+          "description": "Fireworks for Cities to shoot off on fourth of July."
+        }, 
+        {
+          "id": 2, 
+          "category": 0, 
+          "name": "kids", 
+          "description": "Fireworks that are tiny enough to be safe for kids." 
+        }
+    ]
+}
